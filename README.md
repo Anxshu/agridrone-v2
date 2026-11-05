@@ -13,14 +13,14 @@
 ## 📸 System Showcase & Visual Architecture
 
 ### Hardware & Telemetry Wiring Architecture
-![AgriDrone Wiring Diagram](photos/wiring_diagram.png)
+![AgriDrone Wiring Diagram](wiring_diagram.png)
 
 ### Explainable AI — Grad-CAM Foliar Decision Saliency
 The platform eliminates the "black-box" nature of plant diagnosis by projecting multi-spectral gradient activations back onto the crop photo, pinpointing active lesion centers and chlorotic fungal halos.
 
 | Original Aerial Drone Capture | Grad-CAM AI Attention Heatmap |
 | :---: | :---: |
-| ![Original Crop](photos/aerial_crop_sample.jpg) | ![Grad-CAM Heatmap](photos/gradcam_decision_heatmap.jpg) |
+| ![Original Crop](aerial_crop_sample.jpg) | ![Grad-CAM Heatmap](gradcam_decision_heatmap.jpg) |
 
 ---
 
