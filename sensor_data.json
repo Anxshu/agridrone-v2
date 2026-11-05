@@ -1,0 +1,6 @@
+{
+  "temperature": 29.1,
+  "humidity": 47.7,
+  "timestamp": "2026-11-05 18:13:36",
+  "sender_ip": "ambient_sensor"
+}

@@ -1,0 +1,37 @@
+{
+  "field_name": "Field 1 ",
+  "center": {
+    "lat": 26.8467,
+    "lng": 80.9462
+  },
+  "drone_position": {
+    "lat": 26.847,
+    "lng": 80.9465
+  },
+  "corners": [
+    {
+      "id": 1,
+      "name": "Corner 1 (NW)",
+      "lat": 26.848,
+      "lng": 80.9448
+    },
+    {
+      "id": 2,
+      "name": "Corner 2 (NE)",
+      "lat": 26.8482,
+      "lng": 80.9482
+    },
+    {
+      "id": 3,
+      "name": "Corner 3 (SE)",
+      "lat": 26.8455,
+      "lng": 80.9485
+    },
+    {
+      "id": 4,
+      "name": "Corner 4 (SW)",
+      "lat": 26.8453,
+      "lng": 80.9449
+    }
+  ]
+}

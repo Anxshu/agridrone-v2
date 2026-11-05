@@ -1,0 +1,12 @@
+streamlit
+flask
+requests
+opencv-python
+pillow
+streamlit-autorefresh
+pyinstaller
+scikit-learn
+joblib
+numpy
+matplotlib
+scipy
